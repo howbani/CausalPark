@@ -11,5 +11,8 @@
 Autonomous parking is a challenging task for autonomous driving systems, especially in crowded parking lots with dense pedestrian--vehicle interactions. Unlike open-road driving, parking requires precise geometric reasoning, multimodal maneuver planning, and safe closed-loop control in narrow spaces. Existing end-to-end parking methods often suffer from spurious coupling between static geometry and dynamic interaction cues, and struggle to cover diverse parking maneuvers in complex scenarios. To address these challenges, we propose CausalPark, a dual-stream end-to-end parking framework that separates static topology modeling from dynamic risk reasoning. CASFM learns a decoupled spatiotemporal scene representation, while MTGM generates multiple candidate trajectories for scene-aware selection and execution. Experiments in CARLA show that CausalPark achieves robust parking performance in both static and dynamic environments.
 
 # Source Code Updates
-
-# 
+ Coming soon, upon request: please send email to : anmande@ustc.edu.cn
+ 
+  
+# Datasets
+The source code 
